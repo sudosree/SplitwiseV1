@@ -1,0 +1,9 @@
+REGISTER u1 sreemoyee 001 sreemoyee
+REGISTER u2 sumedha 002 sumedha
+REGISTER u3 priyanka 003 priyanka
+REGISTER u4 rajnandini 004 rajnandini
+EXPENSE u1 1000 3 u2 u3 u4 EQUAL DESC WifiBill
+BALANCE u1
+EXPENSE u1 1000 3 u2 u3 u4 EQUAL DESC Lastnightdinner
+BALANCE u1
+HISTORY u1
